@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #4D7C8A;
+  color: #DC965A;
   font-size: 105%;
 }
 
@@ -49,6 +49,9 @@ ul {
   margin: 0 auto;
 }
 
+.avatar {
+  border: 2px dotted orange;
+}
 
 .sidebar {
   font-size: 30px;
