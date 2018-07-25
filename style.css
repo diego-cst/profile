@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: #4D7C8A;
   font-size: 105%;
 }
 
@@ -71,6 +71,18 @@ ul {
 .sidebar .fas:hover {
   color: white;
 }
+
+.sidebar .fas:active {
+  color: white;
+  font-size: 95%;
+}
+
+/*.sidetext {
+  margin: 5px;
+  font-size: 10px;
+  color: #DC965A;
+}*/
+
 
 .shadow {
   box-shadow: 0px 1px 2px 0px #c4bebe;
@@ -122,7 +134,7 @@ margin: 20px;
 
 .fas:hover {
   font-size: 105%;
-  color: red;
+  color: #DC965A;
 }
 
 
