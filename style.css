@@ -50,9 +50,30 @@ ul {
 }
 
 
+.sidebar {
+  font-size: 30px;
+  background: #DC965A;
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.sidebar li {
+  margin: 50px 50px 200px 100px;
+}
+
+.sidebar .fas {
+  color: white;
+}
+
+.sidebar .fas:hover {
+  color: white;
+}
+
 .shadow {
   box-shadow: 0px 1px 2px 0px #c4bebe;
-
 }
 
 
